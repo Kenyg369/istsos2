@@ -1,0 +1,2 @@
+For GSoC 2024,
+Test of skills: Create a pull request to the istSOS repository.
